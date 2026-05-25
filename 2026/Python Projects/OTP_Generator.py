@@ -9,11 +9,11 @@ def OTP(Lenth=6):
 
 
 # Sender details
-sender_email = "vardaan.r12@gmail.com"
-app_password = "bbzofagnhjrzcfoq"
+sender_email = "Sender@XYZ.com"
+app_password = "App Password"
 
 # Receiver
-receiver_email = "kaamchor.yt56@gmail.com"
+receiver_email = "Receiver@XYZ.com"
 
 # Message
 subject = OTP()
